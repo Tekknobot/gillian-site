@@ -637,3 +637,30 @@ img {
   }
 
 }
+
+/* Logo strip */
+.logo-strip {
+  display:flex;
+  gap:28px;
+  align-items:center;
+  margin-bottom:32px;
+  flex-wrap:wrap;
+}
+
+.logo-strip img {
+  height:28px;
+  opacity:0.85;
+  filter: grayscale(100%);
+}
+
+/* Elegant timeline refinement */
+.cv-timeline li {
+  margin-bottom:28px;
+  line-height:1.6;
+}
+
+.cv-timeline strong {
+  font-weight:600;
+  letter-spacing:0.02em;
+}
+
