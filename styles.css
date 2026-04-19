@@ -622,7 +622,7 @@ img {
   .split-panel h2,
   .contact-section h2 {
 
-    font-size: clamp(3.4rem, 7vw, 6.2rem);
+    font-size: 1.8rem;
 
     max-width: 14ch;
 
