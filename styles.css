@@ -344,3 +344,15 @@ img {
     max-width: 100%;
   }
 }
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.brand-icon {
+  width: 16px;
+  height: 16px;
+  stroke: var(--ink);
+}
