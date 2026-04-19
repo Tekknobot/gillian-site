@@ -356,3 +356,10 @@ img {
   height: 32px;
   stroke: var(--ink);
 }
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 0;
+}
